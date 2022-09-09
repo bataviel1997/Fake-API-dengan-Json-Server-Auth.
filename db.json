@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "visyr@mailinator.com",
+      "password": "$2a$10$2g0vHnfX4y1fbV/aWIReQeduZYlFPeQ6E5axl/AUACAANRWomb8mW",
+      "id": 1
+    },
+    {
+      "email": "zozokufih@mailinator.com",
+      "password": "$2a$10$DpoY17865mj4FZ0RPYysuOEWOfaoCz9UFBjLMJoNqYI2WMBO1JyUC",
+      "id": 2
+    },
+    {
+      "email": "dicuz@mailinator.com",
+      "password": "$2a$10$SlGgJDoOxIelmfGZiOdYv.0qam7K5Qz9sbqBAKnP4tfK0Hr4aBzqi",
+      "id": 3
+    },
+    {
+      "email": "bobytaqyly@mailinator.com",
+      "password": "$2a$10$6VOs2Snbgrjbf1ONdHFf1.9j/qXVFrdIDjBSICYG2jiUr.TclP8SK",
+      "id": 4
+    },
+    {
+      "email": "megu@mailinator.com",
+      "password": "$2a$10$prS04687p3WsqDgvAGN8/u2iqtT9MoHprTYj6dV9bsfKaKla3zFBO",
+      "id": 5
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "note": "ini catatan pertama"
+    },
+    {
+      "id": 2,
+      "note": "ini catatan kedua"
+    }
+  ]
+}
